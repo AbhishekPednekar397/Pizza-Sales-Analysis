@@ -1,45 +1,53 @@
 # Pizza-Sales-Analysis
 
-## Sales Report :
+## Project objective :
 
-- **Project objective:** 
-
-    **1.** Create a _[customer performance report](https://github.com/AbhishekPednekar397/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)_ 
-
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/AbhishekPednekar397/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)_
-
-- **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
-
-- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
-
-- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+**This project aims to provide a comprehensive analysis of pizza sales data using SQL. By examining various aspects of sales data, we can gain insights into sales trends, product performance, customer behaviour and operational efficiency. This analysis can help inform strategic decisions for improving sales and operational processes.** 
 
 
-## Finance Report :
+## Primary objective :
 
-- **Project objective:** 
+ - **Sales Analysis:** Identify trends in sales over time, including peak sales periods and seasonal variations.
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year](https://github.com/AbhishekPednekar397/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)_ & _[Months](https://github.com/AbhishekPednekar397/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)_ 
+- **Product Performance:** Evaluate the popularity of different pizza types and toppings to inform menu decisions.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets](https://github.com/AbhishekPednekar397/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)_
+- **Customer Insights:** Analyze customer purchasing behaviour, including order frequency and average order values.
 
-- **Purpose of finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
-
-- **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
-
-- **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+- **Operational Efficiency:** Assess kitchen performance metrics such as order preparation time and delivery efficiency.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+## Key Learnings from the Pizza Sales Analysis Project :
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+**Data Analysis with SQL:** 
+
+Gained proficiency in using SQL for querying and analyzing large datasets. Learned how to write complex queries to retrieve specific data points and perform aggregations.
+
+**Sales Trends Identificaton:** 
+
+Developed the ability to identify and interpret sales trends over time. Analyzed peak sales periods and seasonal variations to understand patterns.
+
+**Product Performance Evaluation:** 
+
+Learned to evaluate popularity and performance of different products. Assessed which pizza type and toppings are most preferred by customers.
+
+**Customer Insights:** 
+
+Analyzed customer purchasing behaviour, including order frequency and average order values. Used insights to understand customer preferences and behaviour patterns.
+
+**Operational Efficiency Assessment:** 
+
+Evaluated operational metrics such as order preparation time and delivery efficiency. Identified areas for improvement in kitchen performance and delivery processes.
+
+**Revenue Analysis:** 
+
+Calculated total revenue and determined the percentage contribution of each pizza type to the overall revenue. Identified the highest-priced pizza and the top revenue generating products.
+
+**Data-Driven Decision Making:** 
+
+Gained experience in using data to inform strategic business decisions. Provided actionable insights that can help optimize the menu, improve customer satisfaction and enhance operational efficiency.
+
+**Effective Data Presentation:** 
+
+Learned how to present data findings in clear and concise manner. Used visualizations and summary tables to effectively communicate insights.
+
+This project not only enhanced technical skills in SQL but also provided practical experience i data analysis and interpretation, which are critical for making informed business decisions.
